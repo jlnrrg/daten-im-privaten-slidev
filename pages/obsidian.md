@@ -1,9 +1,9 @@
 ---
 layout: image-right
-image: ../assets/img/obsidian_graph.webp
+image: /obsidian_graph.webp
 ---
 
-<div class="flex gap-2"><img class="h-10" src="../assets/img/obsidian-icon.webp"><h1><a target="_blank" rel="noopener noreferrer" href="https://obsidian.md/">Obsidian</a></h1> (Notizen-App)</div>
+<div class="flex gap-2"><img class="h-10" src="/obsidian-icon.webp"><h1><a target="_blank" rel="noopener noreferrer" href="https://obsidian.md/">Obsidian</a></h1> (Notizen-App)</div>
  
 - schnell & strukturiert
 - <div class="flex gap-2">Ordner <div v-click>→ Tags</div><div v-click>→ Suche + Verlinkung</div></div>
@@ -18,7 +18,7 @@ image: ../assets/img/obsidian_graph.webp
 
 ---
 layout: image-left
-image: ../assets/img/dips_losteria_neu.gif
+image: /dips_losteria_neu.gif
 ---
 
 # L'Osteria

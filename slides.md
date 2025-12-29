@@ -5,7 +5,7 @@ themeConfig:
   primary: '#8b471c'
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: assets/img/bookshelf.webp
+background: /bookshelf.webp
 backgroudSize: contain
 # some information about your slides (markdown enabled)
 title: Daten im Privaten

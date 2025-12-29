@@ -1,6 +1,6 @@
 ---
 layout: image-right
-image: ../assets/img/thats_all_folks.gif
+image: /thats_all_folks.gif
 backgroundSize: fact
 ---
 

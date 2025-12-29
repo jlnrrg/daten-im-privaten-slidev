@@ -1,6 +1,6 @@
 ---
 layout: image-left
-image: ../assets/img/bookshelf.webp
+image: /bookshelf.webp
 backgroundSize: 200% 100%
 ---
 
