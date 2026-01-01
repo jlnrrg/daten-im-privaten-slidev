@@ -3,12 +3,12 @@
 Tracking über [Boardgamegeek](https://boardgamegeek.com/), Auswertung per [Geekgroup](https://geekgroup.app)
 
 
-- 343 Runden gespielt | Jede Woche ⌀ 6.6 Spielrunden
+- 360 Runden gespielt | Jede Woche ⌀ 6.8 Spielrunden
 
 <v-clicks>
 
-- 168 verschiedene Spiele, davon 147 neue
-- 13 Spiele mehr als 5 mal gespielt
+- 169 verschiedene Spiele, davon 147 neue
+- 15 Spiele mehr als 5 mal gespielt
 </v-clicks>
 
 5 Meistgespielten:
@@ -18,8 +18,8 @@ Tracking über [Boardgamegeek](https://boardgamegeek.com/), Auswertung per [Geek
     <div class="w-full flex justify-between"><div>bewertet:</div><div>8/10</div></div>
     <div class="w-full flex justify-between"><div>gespielt:</div><div>22x</div></div>
   </div>
+  <div class="text-right"><img class="h-full w-auto object-contain" src="/innovation_ultimate.webp">10/10<br/>22x</div>
   <div class="text-right"><img class="h-full w-auto object-contain" src="/hive_pocket.webp">9/10<br/>21x</div>
   <div class="text-right"><img class="h-full w-auto object-contain" src="/orapa_space.webp">9/10<br/>16x</div>
-  <div class="text-right"><img class="h-full w-auto object-contain" src="/innovation_ultimate.webp">10/10<br/>15x</div>
   <div class="text-right"><img class="h-full w-auto object-contain" src="/blood_on_the_clocktower.webp">8/10<br/>10x</div>
 </div>
